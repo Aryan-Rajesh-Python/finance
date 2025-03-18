@@ -1,4 +1,4 @@
-# **📜 Personal Finance Tracker and Visualizer- README**  
+# **📜 Personal Finance Tracker and Visualizer**  
 
 🔥 **A simple and efficient web application for tracking personal finances with transaction management, category-wise spending, and budgeting.**  
 
